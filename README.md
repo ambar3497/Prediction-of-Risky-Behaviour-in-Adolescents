@@ -1,4 +1,4 @@
-# DATA6101-FINAL-PROJECT
+# PREDICTION OF RISKY BEHAVIOUR IN ADOLESCENTS
 
 This repository encompasses the Master of Science in Data Science's DATS6101 subject's endterm project for Semester 1 in Fall 2022. Our project sheds light on the issue of adolescents and their likeliness of engaging in risky behaviours through extensive yet relevant exploratory data analysis and predicts the possibility of exhibition of such behaviour using machine learning algorithms.
 
